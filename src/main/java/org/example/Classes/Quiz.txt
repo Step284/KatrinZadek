@@ -1,0 +1,47 @@
+Název:Test VV 01
+Otázka 1zN:Která barva je nejlepší?
+Hodnota:5
+Správně:Modrá
+Špatně:Růžová
+Špatně:Žlutá
+Špatně:Zelená
+/
+Otázka 1zN:Který tvar je hranatý?
+Hodnota:10
+Špatně:Kruh
+Správně:Čtverec
+Špatně:Elipsa
+/
+Otázka 1zN:Který materiál je průhledný?
+Hodnota:10
+Špatně: Dřevo
+Správně: Sklo
+Špatně: Železo
+/
+Otázka 1zN: Co není ovoce?
+Hodnota:10
+Špatně:Jablko
+Špatně:Pomeranč
+Správně:Mrkev
+Špatně:Hrozny
+/
+Otázka 1zN: Který sport je týmový?
+Hodnota:5
+Správně:Volejbal
+Špatně:Alpské lyžování
+Špatně: Judo
+Špatně: Rychlobruslení
+/
+Otázka 1zN: Které ze zvířat není savec?
+Hodnota:5
+Špatně:Pes
+Špatně:Slon
+Špatně: Delfín
+Správně: Žralok
+/
+Otázka 1zN: Která z planet není součástí soustavy?
+Hodnota:5
+Špatně: Země
+Špatně: Mars
+Špatně: Uran
+Správně: Brno
