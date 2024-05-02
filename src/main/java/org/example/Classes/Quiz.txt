@@ -45,3 +45,8 @@ Hodnota:5
 Špatně: Mars
 Špatně: Uran
 Správně: Brno
+/
+Otázka 1zN: Ano/ Ne
+Hodnota:5
+Špatně: Ano
+Správně: Ne
